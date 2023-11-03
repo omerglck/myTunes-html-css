@@ -1,4 +1,4 @@
-# mtTunes-HTML-CSS
+# myTunes-HTML-CSS
 
 - The user interface and user experience design of the project were created.
 
